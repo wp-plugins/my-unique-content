@@ -9,8 +9,7 @@ Stable tag: 3.3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-An SEO tool for converting your site's content to your own unique content. This plugin will help you boost your
-search engine ranking since you will have a fresh and unique content site.
+An SEO tool for converting your site's content to your own unique content. 
 
 == Description ==
  An SEO tool for converting your site's content to your own unique content. This plugin will help you boost your
