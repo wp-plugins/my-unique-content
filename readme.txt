@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== My Unique Content ===
 Contributors: jancemsy
 Author: James Martinez
 Donate link:  https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TB7GJHE9R3KXS
