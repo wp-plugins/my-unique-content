@@ -1,4 +1,5 @@
 === Plugin Name ===
+Contributors: jancemsy
 Author: James Martinez
 Donate link:  https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TB7GJHE9R3KXS
 Tags: Unique Content, Content Synonym Plugin,SEO new content
@@ -8,10 +9,9 @@ Stable tag: 3.3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will convert all your words in the record to their corresponding synonyms and give you 
-a unique content that eventually help you boost your rankings and presence to Big G (Google). 
+This Plugin is an seo tool for converting your site's content to your own unique content.
 
-== Note ==
+== Description ==
  Enter your custom words separated by new line in the list and their corresponding synonyms. Each line of words should match to their synonyms.
 For example you added the word "common" in line 20 in your word list, you should 
 add its synonym in the same line as well in your synonym list.
