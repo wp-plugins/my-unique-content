@@ -2,7 +2,7 @@
 Contributors: jancemsy
 Author: James Martinez 
 Donate link:  http://jamesmartinez2011.wordpress.com/wordpress-plugins/
-Tags: unique,content,synonym,plugin,seo,new content,tools,google,search engine, words,text
+Tags: unique,content,synonym,plugin,seo,new content,tools,google,search engine, words,text,copy
 Requires at least: 3.3.2
 Tested up to: 3.3.2
 Stable tag: 3.3.2
